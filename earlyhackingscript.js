@@ -1,4 +1,4 @@
-//Early Hacking Script
+Early Hacking Script
 /** @param {NS} ns */
 export async function main(ns) {
     // Defines the "target server", which is the server
@@ -36,4 +36,4 @@ export async function main(ns) {
             await ns.hack(target);
         }
     }
-}
+
